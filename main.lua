@@ -1,3 +1,4 @@
+-- https://xheptcofficial.gitbook.io/kavo-library/#creating-buttons
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RapidOnGfuel/robloxGUI/main/source.lua"))()
 local Window = Library.CreateLib("Rapid Hub", "DarkTheme")
 local ESP = loadstring(game:HttpGet("https://pastebin.com/raw/nF4pQUn6", true))()
